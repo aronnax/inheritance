@@ -1,6 +1,6 @@
 {
   "name": "aronnax-inheritance",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A general purpose inheritance utility module.",
   "main": "dist/inheritance.js",
   "repository": "git@github.com:aronnax/inheritance.git",
